@@ -145,6 +145,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 This project is licensed under the MIT License.
 
 📬 Contact
-Created by Dameswara Rao
+Created by kosanam Neha || Dameswara Rao || korumilli Likitha || Kowtharapu Nikhita 
 For queries or collaboration: dameswararao01@gmail.com
 
